@@ -1,0 +1,10 @@
+syntax="proto3";
+package example;
+
+message Data{
+    string text=1;
+}
+
+service FormatData{
+    rpc DoFormat(Data) returns (Data) {}
+}

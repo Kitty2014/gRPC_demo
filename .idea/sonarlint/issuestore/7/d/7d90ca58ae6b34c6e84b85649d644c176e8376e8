@@ -1,0 +1,7 @@
+
+4python:S2772	"Remove this unneeded "pass".(ã‘Û¾
+python:S1542$"iRename function "add_FormatDataServicer_to_server" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(şŠ‡ 
+fpython:S100"ORename method "DoFormat" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÆÿŞ¯
+4python:S2772"Remove this unneeded "pass".(ã‘Û¾
+lpython:S116"PRename this field "DoFormat" to match the regular expression ^[_a-z][_a-z0-9]*$.(’ŞÁüÿÿÿÿ
+4python:S2772"Remove this unneeded "pass".(ã‘Û¾
